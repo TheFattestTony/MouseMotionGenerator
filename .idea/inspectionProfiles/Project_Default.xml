@@ -1,0 +1,64 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W391" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ex003b.APP_DEBUG" />
+          <option value="ex003b.XSRF_ENABLED" />
+          <option value="ex003b.WTF_CSRF_SECRET_KEY" />
+          <option value="ex003b.APP_AUTORELOAD" />
+          <option value="ex003b.ErrorModalModule" />
+          <option value="ex003b.MainTabsModule" />
+          <option value="ex003b.PaginationModule" />
+          <option value="ex003b.t_datetime" />
+          <option value="ex003b.o" />
+          <option value="ex003b.rebo" />
+          <option value="ex003b.create_default_sider" />
+          <option value="ex003b.scraper" />
+          <option value="ex003b.DATAMODEL_DEFAULT_CUSTOM_FIELDS" />
+          <option value="ex003b.create_datamodel_felds" />
+          <option value="ex003b.DATAMODEL_CORE_FIELDS" />
+          <option value="ex003b.MONGODB_COLL_DATASCRAPPED" />
+          <option value="ex003b.MONGODB_COLL_CONTRIBUTORS" />
+          <option value="ex003b.MONGODB_COLL_DATAMODEL" />
+          <option value="ex003b.MONGODB_COLL_USERS" />
+          <option value="ex003b.MONGODB_DB" />
+          <option value="ex003b.MONGODB_PORT" />
+          <option value="ex003b.MONGODB_HOST" />
+          <option value="ex003b.JWT_SECRET_KEY" />
+          <option value="dict.iteritems" />
+          <option value="ex003b.controller" />
+          <option value="urls" />
+          <option value="ex003b.config" />
+          <option value="ex003b.tornado" />
+          <option value="ex003b.pymongo" />
+          <option value="ex003b.bson" />
+          <option value="ex003b.access_log" />
+          <option value="hash" />
+          <option value="cv2.resize" />
+          <option value="teste3.Mesa" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
